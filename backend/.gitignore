@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Strapi internal
+.strapi/
+
+# Environment variables (secret)
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads (optional - production me ignore karte hain)
+public/uploads/*
+
+# Cache / temp
+.tmp/
+.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Database (agar local sqlite use kar raha hai)
+*.sqlite
+*.sqlite3
