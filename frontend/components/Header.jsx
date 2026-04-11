@@ -33,7 +33,7 @@ export default function Header() {
           className="flex items-center gap-2"
         >
           <Image
-            src="/orange-logo.png"
+            src="/Orange-logo.png"
             alt="Pdn Logo"
             width={60}
             height={60}

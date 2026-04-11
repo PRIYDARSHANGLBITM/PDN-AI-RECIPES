@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
             <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
               <div className="flex items-center gap-3">
                 <Image
-                  src="/logo.png"
+                  src="/Logo.png"
                   alt="Pdn Logo"
                   width={48}
                   height={48}
