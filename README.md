@@ -1,5 +1,6 @@
 [🚀 Live Demo](https://pdn-ai-recipes.vercel.app)
 
+---
 
 # 🍳 PDN AI Recipes
 
