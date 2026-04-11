@@ -11,8 +11,9 @@ import PricingSection from "@/components/PricingSection";
 import Link from "next/link";
 
 export default async function LandingPage() {
-  const { has } = await auth();
-  const subscriptionTier = has({ plan: "pro" }) ? "pro" : "free";
+  //const { has } = await auth();
+  //const subscriptionTier = has({ plan: "pro" }) ? "pro" : "free";
+  const subscriptionTier = "free";
 
   return (
     <div className="min-h-screen bg-stone-50 text-stone-900">
