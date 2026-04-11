@@ -12,15 +12,25 @@ dist/
 build/
 backend/dist/
 
-# env
+# env (secrets)
 .env
 backend/.env
+frontend/.env
 
 # strapi
 backend/.strapi
 
-# uploads (optional)
+# uploads (optional - large files avoid)
 backend/public/uploads/
 
-# misc
+# logs
 *.log
+
+# misc
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+
+
+!frontend/public/
+!frontend/public/**
