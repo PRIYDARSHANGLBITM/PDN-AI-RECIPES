@@ -37,7 +37,10 @@
 
 ## 📸 Preview
 
-![App Screenshot](https://pdn-ai-recipes.vercel.app/pasta-dish.png)
+<img width="1919" height="1140" alt="Image" src="https://github.com/user-attachments/assets/37a062e2-daf7-4b74-98cc-462f19c429a3" />
+<img width="1919" height="1145" alt="Image" src="https://github.com/user-attachments/assets/146e86ec-fa2f-46ea-bc37-73ccab6b4183" />
+<img width="1919" height="1146" alt="Image" src="https://github.com/user-attachments/assets/c51cc8c8-83c3-4ce9-b4e6-2f799b173b18" />
+<img width="1917" height="1142" alt="Image" src="https://github.com/user-attachments/assets/37e8c494-f9f6-443f-930f-2be5b6df0fbe" />
 
 
 ---
