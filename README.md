@@ -14,11 +14,6 @@
 
 ---
 
-## 🌐 Live Project
-
-👉 https://pdn-ai-recipes.vercel.app
-
----
 
 ## ✨ Features
 
