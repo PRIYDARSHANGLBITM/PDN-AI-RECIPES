@@ -1,4 +1,10 @@
-[🚀 Live Demo](https://pdn-ai-recipes.vercel.app)
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://pdn-ai-recipes.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔥%20Live%20Demo-Click%20Here-orange?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
