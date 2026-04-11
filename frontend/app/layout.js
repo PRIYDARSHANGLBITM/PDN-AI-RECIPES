@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
               <div className="flex items-center gap-3">
                 <Image
                   src="/logo.png"
-                  alt="Servd Logo"
+                  alt="Pdn Logo"
                   width={48}
                   height={48}
                   className="w-14"
