@@ -39,6 +39,8 @@
 
 ![App Screenshot](https://pdn-ai-recipes.vercel.app/pasta-dish.png)
 
+https://raw.githubusercontent.com/PRIYDARSHANGLBITM/PDN-AI-RECIPES/main/frontend/public/pasta-dish.png
+
 ---
 
 ## ⚡ Run Locally
